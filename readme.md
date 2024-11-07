@@ -1,7 +1,7 @@
 ## LearnEd (E-learning Website) for Proviz School of AI
 An educational website for students and programmers 😊😊😊  
 
-
+![Screenshot 2024-11-07 214911](https://github.com/user-attachments/assets/de8f49a3-f8b9-4cf2-8bc0-4c9ac25daab3)
 
 Try this out:  https://jaganathc.github.io/Proviz-School-of-AI-Assignment/ :  
 
