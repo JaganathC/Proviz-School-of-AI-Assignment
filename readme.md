@@ -5,6 +5,7 @@ An educational website for students and programmers 😊😊😊
 
 Try this out:  https://jaganathc.github.io/Proviz-School-of-AI-Assignment/ :  
 
+Google Drive Link :  https://drive.google.com/file/d/1tSdGPfv8D4r3C8pwbHZd9dukuAK-yfWD/view?usp=drive_link :
 
 This AI Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses (HTML,CSS,DSA,Computer Graphics) to crack competitive  
